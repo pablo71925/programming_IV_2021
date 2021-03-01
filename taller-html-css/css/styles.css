@@ -1,0 +1,31 @@
+body {
+    background-color: #46d2ca;
+    color: #666;
+    font: 16px Tahoma;
+  }
+  header {
+    background-color: #237974;
+    height: 200px;
+    margin: 0px auto;
+    width: 960px;
+  }
+
+nav {
+    margin: 0px auto;
+    position: relative;
+    top: 60px;
+    width: 900px;
+  }
+  nav li {
+    background-color: #fff;
+    display: inline-block;
+    color: #237974;
+    height: 50px;
+    list-style: none;
+    line-height: 50px;
+    text-align: center;
+    padding: 10px;
+    width: 200px;
+
+   
+  }
